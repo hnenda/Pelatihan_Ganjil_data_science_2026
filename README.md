@@ -1,0 +1,2 @@
+# Pelatihan_Ganjil_data_science_2026
+workshop data science
